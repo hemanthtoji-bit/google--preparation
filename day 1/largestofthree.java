@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lo3{
+public class largestofthree{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter three numbers");
