@@ -1,10 +1,8 @@
 // Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
 import java.util.Scanner;
 
-public class nnum {
-   public nnum() {
-   }
-
+public class printnnum {
+ 
    public static void main(String[] var0) {
       Scanner var1 = new Scanner(System.in);
       System.out.println("Enter a number");
